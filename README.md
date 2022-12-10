@@ -1,5 +1,5 @@
 # Astromatch
- consumindo API rest para riação de App estilo Tinder -- API desponibilizada pela Labenu cursos
+ consumindo API rest para criação de App estilo Tinder -- API desponibilizada pela Labenu cursos
 
 O que funciona:
 - Botão de dar Match

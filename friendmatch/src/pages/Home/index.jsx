@@ -1,19 +1,21 @@
-import React from 'react';
-
+import React, { Component } from 'react';
+import Header from '../../components/HeaderHome'
+import MainHome from '../../components/MainHome';
 import {Container} from './styled'
 
 
 
 
-const Home = ()=>{
-    return (
-        <Container>
-            <div>Header</div>
-            <div>MainHome</div>
-            
-        </Container>
-    );
-    
+class Home extends Component {
+    render() {
+        return (
+            <Container>
+                <Header/>
+                <MainHome/>
+                
+            </Container>
+        );
+    }
 }
 
 export default Home;

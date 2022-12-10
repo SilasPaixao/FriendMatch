@@ -1,4 +1,5 @@
 import React from 'react'
+import RoutesApp from './Routes';
 import { GlobalStyled} from './GlobalStyled'
 import styled from 'styled-components'
 
@@ -20,6 +21,7 @@ function App() {
 	return (
       <Container>
          <GlobalStyled/>
+         < RoutesApp />
       </Container>
 	)
 }

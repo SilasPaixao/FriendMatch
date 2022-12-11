@@ -1,7 +1,7 @@
 # FriendMatch
- consumindo API rest para criação de App estilo Tinder -- API desponibilizada pela Labenu cursos
+ *Consumindo API rest para criação de App estilo Tinder -- API desponibilizada pela Labenu cursos
 
-O que funciona:
+Features presentes:
 - Botão de dar Match
 - Botão para ir na segunda página
 - Botão x
@@ -11,7 +11,7 @@ O que funciona:
 Link Surge:
  homeless-bean.surge.sh
 
-Imagens:
+# Imagens:
 
 Tela Inicial 
 ![image](https://github.com/SilasPaixao/FriendMatch/blob/master/friendmatch/src/assets/front.png?raw=true)

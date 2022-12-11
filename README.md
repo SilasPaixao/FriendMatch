@@ -1,4 +1,4 @@
-# Astromatch
+# FriendMatch
  consumindo API rest para criação de App estilo Tinder -- API desponibilizada pela Labenu cursos
 
 O que funciona:
